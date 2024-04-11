@@ -114,6 +114,14 @@
             "alt": "Imagem Tereré De Detox",
             "title": "Tereré De Detox",
             "preco": "R$00,00"  
+        };
+        {   
+            "id": 7,
+            "name": "detox",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste7.jpeg?raw=true",
+            "alt": "Imagem Tereré De Detox",
+            "title": "Tereré De Detox",
+            "preco": "R$00,00"  
         }
     ]
 }
