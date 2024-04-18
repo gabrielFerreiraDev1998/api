@@ -6,7 +6,7 @@
             "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste1.jpeg?raw=true",
             "alt": "Imagem Tereré Detox",
             "title": "Tereré Detox",
-            "preco": "R$00,00"  
+            "preco": "R$11,00"  
         },
         {   
             "id": 2,
@@ -14,7 +14,7 @@
             "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste2.jpeg?raw=true",
             "alt": "Imagem Tereré De Menta",
             "title": "Tereré De Menta",
-            "preco": "R$00,00"
+            "preco": "R$12,00"
         },
         {   
             "id": 3,
